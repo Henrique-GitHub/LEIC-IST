@@ -1,3 +1,6 @@
 [submodule "IPM---2-Bake-off"]
 	path = IPM---2-Bake-off
 	url = git@github.com:bin0o/IPM---2-Bake-off.git
+[submodule "robot_graphical_computation"]
+	path = robot_graphical_computation
+	url = git@github.com:caldas479/robot_graphical_computation.git
