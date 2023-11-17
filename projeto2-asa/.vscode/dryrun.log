@@ -1,0 +1,6 @@
+make all --dry-run --keep-going --print-directory
+make: Entering directory '/home/guilherme/Documents/projeto2-asa'
+make: Leaving directory '/home/guilherme/Documents/projeto2-asa'
+ 
+make: *** No rule to make target 'all'.
+ 
