@@ -4,3 +4,6 @@
 [submodule "robot_graphical_computation"]
 	path = robot_graphical_computation
 	url = git@github.com:caldas479/robot_graphical_computation.git
+[submodule "T14-DistLedger"]
+	path = T14-DistLedger
+	url = git@github.com:tecnico-distsys/T14-DistLedger.git
