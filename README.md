@@ -6,6 +6,8 @@ Welcome to the repository for projects completed during the Bachelor of Science 
 
 This repository serves as a partial collection of projects undertaken as part of the academic curriculum at IST. As a student pursuing a degree in Computer Science and Engineering, these projects reflect the diverse range of skills and knowledge acquired during the course.
 
+Unfortunately this is not a full collection of the projects because several of them were lost.
+
 ## Structure
 
 The repository is organized to help you navigate through different projects. Each project is contained within its own directory, providing detailed documentation, source code, and any additional resources related to the assignment.
