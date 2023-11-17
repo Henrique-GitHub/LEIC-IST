@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <div>
+    <h1>O que deseja fazer com retalhistas?</h1>
+    <hr>
+    <h3>Para remover preencha apenas o TIN</h3><p></p>
+  </div>
+  <form action="retalhistas/update" method="POST">
+    <label>TIN Retalhista:</label><br>
+    <input type="text" name="TIN Retalhista"><br>
+    <label>Nome Retalhista:</label><br>
+    <input type="text" name="Nome Retalhista"><br>
+    <label>Categoria que repoe:</label><br>
+    <input type="text" name="Categoria Retalhista"><br>
+    <label>Num Serie IVM que repoe:</label><br>
+    <input type="text" name="num_serie IVM Retalhista"><br>
+    <label>Fabricante IVM que repoe:</label><br>
+    <input type="text" name="fab IVM Retalhista"><br><br>
+    <input type="submit" name="action" value="Inserir Retalhista">
+    <input type="submit" name="action" value="Remover Retalhista">
+  </form>
+  <br><br><button type="button" onclick="document.location='../app.cgi/'">VOLTAR</button>
+</body>
+</html>

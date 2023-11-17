@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <div>
+    <h1>Insira IVM para listar todos os seus eventos de reposicao</h1>
+    <hr>
+  </div>
+  <form action="eventos/listar" method="POST" >
+    <label>Numero de serie da IVM:</label><br>
+    <input type="text" name="num_serie"><br>
+    <label>Fabricante da IVM:</label><br>
+    <input type="text" name="fab"><br><br>
+    <input type="submit" value="Listar">
+  </form>
+  <br><br><button type="button" onclick="document.location='../app.cgi/'">VOLTAR</button>
+</body>
+</html>
